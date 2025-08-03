@@ -1,6 +1,6 @@
 # 📰 Projeto UI – Página de Notícia "Os vilões da luz"
 
-![Texto alternativo](ping_banner.png)
+![Texto alternativo](./images/ping_banner.png)
 
 
 Interface de uma página de notícia inspirada em portais jornalísticos como o TechTudo, com layout limpo, informativo e responsivo. O conteúdo aborda os eletrodomésticos que mais consomem energia e como economizar na conta de luz.
